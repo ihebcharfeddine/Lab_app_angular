@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "cin": "12345678",
+      "cv": "https://www.cdc.gov/polio/stop/pdf/stop-cv-format.pdf",
+      "name": "John Doe",
+      "type": "client",
+      "createdDate": "2024-09-30T14:01:49.158Z",
+      "id": "1"
+    },
+    {
+      "id": "e833",
+      "cin": "1124",
+      "cv": "none",
+      "name": "si mzid",
+      "type": "ATS",
+      "createdDate": "2024-09-25T10:02:30.538Z"
+    },
+    {
+      "id": "b2ff",
+      "cin": "ainf",
+      "cv": "gfg",
+      "name": "fdg",
+      "type": "gfg",
+      "createdDate": "2024-09-30T13:04:41.813Z"
+    }
+  ]
+}
