@@ -1,5 +1,5 @@
-import { Component } from '@angular/core';
-import { Router } from '@angular/router';
+import { Component, OnInit } from '@angular/core';
+import { Router, NavigationEnd } from '@angular/router';
 
 @Component({
   selector: 'app-root',
@@ -8,5 +8,5 @@ import { Router } from '@angular/router';
 })
 export class AppComponent {
   title = 'larousse';
-  constructor(public router: Router) {}
+  constructor(private router: Router) {}
 }

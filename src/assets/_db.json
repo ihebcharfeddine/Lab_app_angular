@@ -15,14 +15,15 @@
       "name": "si mzid",
       "type": "ATS",
       "createdDate": "2024-09-25T10:02:30.538Z"
-    },
+    }
+  ],
+  "evenements": [
     {
-      "id": "b2ff",
-      "cin": "ainf",
-      "cv": "gfg",
-      "name": "fdg",
-      "type": "gfg",
-      "createdDate": "2024-09-30T13:04:41.813Z"
+      "id": "12",
+      "titre": "conf",
+      "datedebut": "12/2/2024",
+      "datefin": "15/2/2024",
+      "lieu": "sfax"
     }
   ]
 }

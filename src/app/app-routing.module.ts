@@ -15,7 +15,7 @@ const routes: Routes = [
     component: MemberFormComponent,
   },
   { path: '', pathMatch: 'full', component: LoginComponent },
-  { path: 'create', pathMatch: 'full', component: MemberComponent },
+  { path: 'member', pathMatch: 'full', component: MemberComponent },
   { path: ':id/edit', pathMatch: 'full', component: MemberFormComponent },
   { path: 'dashboard', pathMatch: 'full', component: DashboardComponent },
   { path: 'tools', pathMatch: 'full', component: ToolsComponent },
